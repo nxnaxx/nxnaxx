@@ -47,26 +47,14 @@
 
 
 ## Connect with me
-  <a href="https://github.com/nxnaxx" target="_blank">
+ <!-- <a href="https://github.com/nxnaxx" target="_blank">
     <img src=https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
-  <a href="https://www.instagram.com/raey_05/" target="_blank">
+   <a href="https://www.instagram.com/raey_05/" target="_blank">
     <img src=https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://nxnaxx.notion.site/nxnaxx/Dev-d0166e0125114ca1b7eb2080fa1e9704" target="_blank">
+  </a> -->
+<!--   <a href="https://nxnaxx.notion.site/nxnaxx/Dev-d0166e0125114ca1b7eb2080fa1e9704" target="_blank">
     <img src=https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-  </a>
+  </a> -->
 
-<!-- **nxnaxx/nxnaxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-
+블로그 https://nxnaxx.github.io/
