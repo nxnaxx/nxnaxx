@@ -11,6 +11,10 @@
 
 [![Tech Stack](https://skillicons.dev/icons?i=html,css,js,ts,react,gatsby,graphql,emotion)](https://skillicons.dev)
 
+### ✏️ Have Used
+
+[![Tech Stack](https://skillicons.dev/icons?i=nodejs,nestjs,mongodb)](https://skillicons.dev)
+
 ### 📚 Studying
 <!--
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
@@ -18,7 +22,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)-->
 
-[![Studying](https://skillicons.dev/icons?i=redux,nextjs,nodejs,mongodb)](https://skillicons.dev)
+[![Studying](https://skillicons.dev/icons?i=redux,nextjs)](https://skillicons.dev)
 
 <!--### Have used
 
