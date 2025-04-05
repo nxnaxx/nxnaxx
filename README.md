@@ -63,9 +63,15 @@
     <img src=https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
   </a> -->
 
-<a href="https://nxnaxx.github.io/" target="_blank">
+<a href="raey-dev.com" target="_blank">
   <img src=https://img.shields.io/badge/Blog-121013?style=for-the-badge&logo=github&logoColor=white alt=blog style="margin-bottom: 5px;" />
 </a> &nbsp;
 <a href="https://nxnaxx.notion.site/nxnaxx/Dev-d0166e0125114ca1b7eb2080fa1e9704" target="_blank">
   <img src=https://img.shields.io/badge/Notion-121013?style=for-the-badge&logo=notion&logoColor=white alt=Notion style="margin-bottom: 5px;" />
 </a>
+
+<br/>
+<br/>
+
+*blog 이전 작업 진행 중</br>
+<a href="raey-dev.com" target="_blank">raey-dev.com</a>
